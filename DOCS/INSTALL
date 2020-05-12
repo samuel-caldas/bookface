@@ -1,0 +1,6 @@
+Instalando o BookFace:
+  1. Envie todos os arqivos para o servidor.
+  2. Dê CHMOD 777 no arquivo 'config.php' e no diretório 'uploadedimage'.
+  3. Acesse sua rede social e instale-a pelo instalador automático.
+Alternativamente, você pode:
+  3. Abrir o arquivo config.php e configurar sua rede manualmente.
